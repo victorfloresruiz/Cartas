@@ -1,0 +1,61 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.principal {
+    background-image: url(imagenes/carta7-img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.primero {
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-bottom: 90px;
+}
+
+.primero h1 {
+    font-size: 80px;
+    padding-bottom: 10px;
+}
+
+.primero p {
+    padding-bottom: 20px;
+}
+
+.primero button {
+    padding: 15px 35px;
+    color: black;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.segundo {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-bottom: 160px;
+}
+
+.segundo div {
+  background-color: gray;
+  border-radius: 15px;
+  padding: 27px;
+  filter: opacity(70%);
+}
+
+.segundo h1 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+
+.segundo p {
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
