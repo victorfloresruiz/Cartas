@@ -1,0 +1,80 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(imagenes/carta11-img3.png);
+    background-size: cover;
+    background-position: 100% 50%;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.primero {
+    padding-left: 70px;
+    padding
+}
+
+.primero h1 {
+    font-size: 90px;
+    padding-bottom: 20px;
+}
+
+.primero p {
+    font-size: 20px;
+    word-spacing: 3px;
+    padding-bottom: 20px;
+}
+
+.primero button {
+    padding: 25px 60px;
+    border: none;
+    border-radius: 35px;
+    background-color: rgb(32, 32, 32);
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.segundo {
+    padding-right: 70px;
+    color: aliceblue;
+}
+
+.infoprimera {
+    display: flex;
+    gap: 30px;
+    padding-top: 35px;
+}
+
+.infoprimera h1 {
+    font-size: 30px;
+}
+
+.pprimera {
+    padding-bottom: 80px;
+    padding-top: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+.infosegunda {
+    display: flex;
+    gap: 30px;
+}
+
+.infosegunda h1 {
+    font-size: 30px;
+}
+
+.psegunda {
+    padding-top: 30px;
+    justify-content: center;
+    display: flex;
+}
+
