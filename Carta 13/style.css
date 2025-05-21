@@ -33,3 +33,53 @@
     color: aliceblue;
     font-size: 25px;
 }
+
+.segundo-section {
+    display: flex;
+    gap: 80px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+
+.segundo-section div {
+    border-radius: 10px;
+}
+
+.titulocarta {
+    padding-left: 20px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.infocarta {
+    padding-left: 20px;
+}
+
+.infocarta h2 {
+    letter-spacing: 5px;
+    padding-bottom: 5px;
+}
+
+.infocarta p {
+    font-size: 15px;
+}
+
+.carta1 {
+    background-color: rgb(255, 165, 113);
+    padding: 20px;
+}
+
+.carta2 {
+    background-color: rgb(255, 255, 82);
+    padding: 20px;
+}
+
+.carta3 {
+    background-color: turquoise;
+    padding: 20px;
+}
+
+.carta4 {
+    background-color: rgb(177, 107, 243);
+    padding: 20px;
+}

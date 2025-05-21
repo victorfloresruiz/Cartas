@@ -3,6 +3,12 @@
     margin: 0%;
 }
 
+body {
+    background-image: url(imagenes/carta10-img1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 section {
     display: flex;
     justify-content: center;
