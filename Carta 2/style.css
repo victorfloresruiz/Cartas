@@ -27,13 +27,13 @@ p {
     margin-bottom: 20px;
 }
 button {
-    background-color: black;
+    background-color: rgb(37, 37, 37);
     color: white;
-    padding: 10px 20px;
-    border: 2px solid purple;
+    border: none;
+    padding: 15px 30px;
     cursor: pointer;
     font-size: 16px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 .galleria {
     gap: 20px;
@@ -60,7 +60,6 @@ button {
 
 .bottom-galleria {
     display: flex;
-    
 }
 .bottom-galleria div {
     text-align: center;
@@ -72,4 +71,8 @@ button {
     color: #aaa;
     margin-bottom: 5px;
     font-weight: bolder;
+}
+
+.imagen2 {
+    padding-top: 100px;
 }

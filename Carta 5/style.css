@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    font-size: 70px;
+    padding-left: 60px;
+}
+
+section {
+    display: flex;
+    color: rgb(75, 75, 75);
+}
+
+section h1 {
+    font-size: 30px;
+    color: rgb(75, 75, 75);
+}
+
