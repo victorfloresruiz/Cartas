@@ -1,0 +1,25 @@
+section {
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+}
+
+img {
+    width: 400px;
+    border-radius: 10px;
+}
+
+p {
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+}
