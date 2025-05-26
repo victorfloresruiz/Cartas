@@ -1,0 +1,73 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.primer-section {
+    display: flex;
+    justify-content: center;
+    gap: 220px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 30px;
+}
+
+.info h1 {
+    font-size: 70px;
+}
+
+.info p {
+    color: rgb(80, 80, 80);
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.info button {
+    padding: 20px 50px;
+    width: 170px;
+    justify-content: center;
+    display: flex;
+    border: none;
+    border-radius: 35px;
+    background-color: rgb(43, 43, 43);
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.segundo-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 115px;
+    gap: 200px;
+    background-color: rgb(43, 43, 43);
+    width: 57%;
+    border-radius: 35px;
+    margin-left: 300px;
+}
+
+.carta {
+    color: aliceblue;
+}
+
+.carta i {
+    padding-bottom: 10px;
+    color: gray;
+}
+
+.carta h1 {
+    font-size: 25px;
+    padding-bottom: 20px;
+    color: rgb(212, 212, 212);
+}
+
+.carta p {
+    color: rgb(212, 212, 212);
+    line-height: 25px;
+}
